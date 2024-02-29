@@ -17,6 +17,7 @@
 		ADEA40D82B91179A00DF7932 /* TagFiltersDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA40D72B91179A00DF7932 /* TagFiltersDemoUITests.swift */; };
 		ADEA40DA2B91179A00DF7932 /* TagFiltersDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA40D92B91179A00DF7932 /* TagFiltersDemoUITestsLaunchTests.swift */; };
 		ADEA40E72B9117B100DF7932 /* TagFilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA40E62B9117B100DF7932 /* TagFilterView.swift */; };
+		ADEA40E92B911DD500DF7932 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = ADEA40E82B911DD500DF7932 /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		ADEA40D72B91179A00DF7932 /* TagFiltersDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagFiltersDemoUITests.swift; sourceTree = "<group>"; };
 		ADEA40D92B91179A00DF7932 /* TagFiltersDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagFiltersDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		ADEA40E62B9117B100DF7932 /* TagFilterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagFilterView.swift; sourceTree = "<group>"; };
+		ADEA40E82B911DD500DF7932 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		ADEA40AA2B91179800DF7932 = {
 			isa = PBXGroup;
 			children = (
+				ADEA40E82B911DD500DF7932 /* readme.md */,
 				ADEA40B52B91179800DF7932 /* TagFiltersDemo */,
 				ADEA40CC2B91179A00DF7932 /* TagFiltersDemoTests */,
 				ADEA40D62B91179A00DF7932 /* TagFiltersDemoUITests */,
@@ -236,6 +239,7 @@
 			files = (
 				ADEA40C32B91179900DF7932 /* LaunchScreen.storyboard in Resources */,
 				ADEA40C02B91179900DF7932 /* Assets.xcassets in Resources */,
+				ADEA40E92B911DD500DF7932 /* readme.md in Resources */,
 				ADEA40BE2B91179800DF7932 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
